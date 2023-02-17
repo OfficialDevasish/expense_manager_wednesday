@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125373346711",
+    "project_id": "grocery-c21e8",
+    "storage_bucket": "grocery-c21e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125373346711:android:c85d272d3ec0e7cc520ad2",
+        "android_client_info": {
+          "package_name": "com.example.expense_manager_wednesday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125373346711-sal9c84dc4ktvjdjj648225f3epn83ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqYRvblxpVL_CJktt0LT457ma0g-daajc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125373346711-sal9c84dc4ktvjdjj648225f3epn83ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
